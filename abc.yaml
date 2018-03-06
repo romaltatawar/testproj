@@ -2,5 +2,3 @@
 metropcs::db_connect: 'sts1dbv01.s1.staging.nod.nuance.com:1521:APPS'
 metropcs::db_user: metropcs_user
 metropcs::db_pass: "metropcs_user#"
-vchcvjq
-hfj%65fhv
