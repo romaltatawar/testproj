@@ -79,4 +79,4 @@ data:
       summary: 'Test'
    sysctl:
       vm.dirty_ratio: 20
-      vm.swappiness:  10
+      vm.swappiness:  20
