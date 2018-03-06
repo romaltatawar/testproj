@@ -5,4 +5,3 @@ data:
       vm.dirty_ratio: 20
       vm.swappiness:  20
 
-%
