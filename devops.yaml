@@ -6,9 +6,7 @@ ntp::interfaces:
   - '192.168.250.10'
 
 tuned::enabled: true
-#tuned::dynamic_tuning: true
 #tuned::profile: virtual-guest-lcp
-#tuned::profile::ensure: present
 tuned::profile:
   "virtual-guest-nvp":
     ensure: present
